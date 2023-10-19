@@ -8,8 +8,8 @@ I'm Krishna Chaitanya Surapaneni, a software engineer with a passion for creatin
 - 🧰 Proficient in a wide range of technologies, including Spring framework, Hibernate, AWS, and Azure.
 - 📊 Dedicated to improving software quality through testing, continuous integration, and code analysis.
 - 🚀 A strong advocate for open source projects and a supporter of the open source community.
-- 🌐 Senior developer in [A.I. Powered Web Visualization Software](https://www.renoworks.com/), delivering innovative solutions for home remodeling decisions.
-- 🤝 Collaborator on [Intelligent Banking](https://www.dbs.com), providing meaningful insights to customers through data-driven solutions.
+- 🌐 Senior developer at [A.I. Powered Web Visualization Software](https://www.renoworks.com/), delivering innovative solutions for home remodeling decisions.
+- 🤝 Collaborator with [Intelligent Banking](https://www.dbs.com), providing meaningful insights to customers through data-driven solutions.
 - 🏢 A key contributor to [Regulatory Affairs Management Suite](https://rams.emergobyul.com/login), simplifying quality assurance and regulatory processes.
 - 📞 Worked on [Pay Per Call Marketing Platform](https://www.callx.com/) to optimize call routing and enhance revenue.
 - 🏥 Contributed to [SAS Based Remote Patient Health Management System](https://www.threadresearch.com/) for efficient patient data collection.
